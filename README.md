@@ -46,13 +46,12 @@ analysis and risk assessment, through development, deployment and long-term main
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SnackOverflow-com"><img src="assets/projects/stepsquad.png" width="100%" alt="Step Squad app" /></a><br/>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/SnackOverflow-com"><img src="assets/projects/stepsquad.png" width="50%" alt="Step Squad app" /></a><br/>
       <a href="https://github.com/SnackOverflow-com"><b>Step Squad</b></a> · team project by SnackOverflow<br/>
       <sub>Mobile app centered around walking with step tracking, city routes, points, leaderboards, badges and streaks.</sub><br/><br/>
       <code>React Native</code> <code>NestJS</code> <code>PostgreSQL</code>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
