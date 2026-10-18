@@ -11,7 +11,7 @@ analysis and risk assessment, through development, deployment and long-term main
 ## Tech I use
 
 <p align="center">
-  <img src="assets/tech.svg" width="742" alt="Java, Spring Boot, Hibernate, Angular, React, React Native, TypeScript, JavaScript, NestJS, Strapi, PostgreSQL, Kafka, RabbitMQ, AWS, Docker, Git, Linux, Python, C, C++, Kotlin, Arduino, HTML, CSS" />
+  <img src="assets/tech.svg" width="742" alt="Java, Spring Boot, Hibernate, Angular, React, React Native, TypeScript, JavaScript, NestJS, Strapi, PostgreSQL, Kafka, RabbitMQ, AWS, Docker, Git, Linux, Python, C, C++, Kotlin, Arduino, HTML, CSS, C#, .NET" />
 </p>
 
 ## Things I've built
@@ -25,25 +25,34 @@ analysis and risk assessment, through development, deployment and long-term main
       <code>ESP32-S3</code> <code>CAN</code> <code>C++</code>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/FilipRaic/pin-list"><img src="assets/projects/pinlist.png" width="100%" alt="PinList" /></a><br/>
+      <a href="https://github.com/FilipRaic/pin-list"><b>PinList</b></a><br/>
+      <sub>To-do list widgets pinned to your Windows desktop. Categories, drag-and-drop, archive of completed items. No account, no cloud, your data stays on your PC.</sub><br/><br/>
+      <code>C#</code> <code>.NET</code> <code>WPF</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://www.askblackcatz.hr"><img src="assets/projects/blackcatz.png" width="100%" alt="ASK Black Catz website" /></a><br/>
       <a href="https://www.askblackcatz.hr"><b>ASK Black Catz</b></a><br/>
       <sub>Website for an airsoft club with activities, membership info and a members-only admin area.</sub><br/><br/>
       <code>HTML</code> <code>CSS</code> <code>live site</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/FilipRaic/loadout-builder"><img src="assets/projects/loadout.png" width="100%" alt="Loadout builder" /></a><br/>
       <a href="https://github.com/FilipRaic/loadout-builder"><b>Loadout builder</b></a><br/>
       <sub>Website for trying different airsoft gear patterns and colors on a 3-angle photo, so you can see what matches before buying.</sub><br/><br/>
       <code>JavaScript</code> <code>Python</code> <code>WebGL2</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/SnackOverflow-com"><img src="assets/projects/stepsquad.png" width="100%" alt="Step Squad app" /></a><br/>
       <a href="https://github.com/SnackOverflow-com"><b>Step Squad</b></a> · team project by SnackOverflow<br/>
       <sub>Mobile app centered around walking with step tracking, city routes, points, leaderboards, badges and streaks.</sub><br/><br/>
       <code>React Native</code> <code>NestJS</code> <code>PostgreSQL</code>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
