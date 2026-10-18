@@ -2,14 +2,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/filip-raic/"><img src="https://img.shields.io/badge/-LinkedIn-0b1220?style=flat&logo=linkedin&logoColor=14b8a6" alt="LinkedIn" /></a>
-  <!-- Mail je javno vidljiv botovima, otkomentiraj samo ako ga želiš na profilu:
   <a href="mailto:raic.filip@gmail.com"><img src="https://img.shields.io/badge/-raic.filip@gmail.com-0b1220?style=flat&logo=gmail&logoColor=14b8a6" alt="Email" /></a>
-  -->
 </p>
 
-Hi, I'm Filip, a full stack engineer. I enjoy projects that need ownership across the entire lifecycle: planning, analysis and risk assessment, then development, deployment and long-term maintenance.
+Hi, I'm Filip, a full stack engineer and I enjoy working on projects that need ownership across the entire lifecycle, from planning,
+analysis and risk assessment, through development, deployment and long-term maintenance.
 
 ## Tech I use
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0b1220?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
@@ -42,35 +43,37 @@ Hi, I'm Filip, a full stack engineer. I enjoy projects that need ownership acros
 
 ## Things I've built
 
+---
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.askblackcatz.hr"><img src="assets/projects/blackcatz.png" width="100%" alt="ASK Black Catz website" /></a><br/>
-      <a href="https://www.askblackcatz.hr"><b>ASK Black Catz</b></a><br/>
-      <sub>Website for an airsoft club, with activities, membership info and a members-only admin area.</sub><br/>
-      <code>web</code> <code>live site</code>
+      <a href="https://filipraic.github.io/obd2-simulator/"><img src="assets/projects/obd2.png" width="100%" alt="OBD-II simulator" /></a><br/>
+      <a href="https://filipraic.github.io/obd2-simulator/"><b>OBD2 simulator</b></a><br/>
+      <sub>Open-source ECU simulator board that answers diagnostic tools like a real car ECU: 21 live parameters, fault codes and a MIL.</sub><br/><br/>
+      <code>ESP32-S3</code> <code>CAN</code> <code>C++</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://filipraic.github.io/obd2-simulator/"><img src="assets/projects/obd2.png" width="100%" alt="OBD-II simulator" /></a><br/>
-      <a href="https://filipraic.github.io/obd2-simulator/"><b>obd2-simulator</b></a><br/>
-      <sub>Open-source board that answers diagnostic tools like a real car ECU: 21 live parameters, fault codes and a MIL.</sub><br/>
-      <code>ESP32-S3</code> <code>CAN</code> <code>C++</code>
+      <a href="https://www.askblackcatz.hr"><img src="assets/projects/blackcatz.png" width="100%" alt="ASK Black Catz website" /></a><br/>
+      <a href="https://www.askblackcatz.hr"><b>ASK Black Catz</b></a><br/>
+      <sub>Website for an airsoft club with activities, membership info and a members-only admin area.</sub><br/><br/>
+      <code>HTML</code> <code>CSS</code> <code>live site</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/FilipRaic/loadout-builder"><img src="assets/projects/loadout.png" width="100%" alt="Loadout builder" /></a><br/>
-      <a href="https://github.com/FilipRaic/loadout-builder"><b>loadout-builder</b></a><br/>
-      <sub>Recolours airsoft gear on a 3-angle photo, so you can see how camo patterns and colours match before buying.</sub><br/>
-      <code>WebGL2</code> <code>JavaScript</code> <code>Python</code>
+      <a href="https://github.com/FilipRaic/loadout-builder"><b>Loadout builder</b></a><br/>
+      <sub>Website for trying different airsoft gear patterns and colors on a 3-angle photo, so you can see what matches before buying.</sub><br/><br/>
+      <code>JavaScript</code> <code>Python</code> <code>WebGL2</code>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/SnackOverflow-com"><img src="assets/projects/stepsquad.png" width="100%" alt="Step Squad app" /></a><br/>
-      <a href="https://github.com/SnackOverflow-com"><b>Step Squad</b></a> <sub>· team project by SnackOverflow</sub><br/>
-      <sub>Walking app with step tracking, city routes with up to five stops, points, leaderboards, badges and streaks.</sub><br/>
+      <a href="https://github.com/SnackOverflow-com"><b>Step Squad</b></a> · team project by SnackOverflow<br/>
+      <sub>Mobile app centered around walking with step tracking, city routes, points, leaderboards, badges and streaks.</sub><br/><br/>
       <code>React Native</code> <code>NestJS</code> <code>PostgreSQL</code>
     </td>
   </tr>
 </table>
 
-<sub>Also on here: [Cartographers](https://github.com/FilipRaic/Cartographers) (JavaFX) · [LinX](https://github.com/FilipRaic/LinX) (Kotlin) · [Hangman](https://github.com/FilipRaic/Hangman) (C)</sub>
+<sub>Take a look at some of the other [repositories](https://github.com/FilipRaic?tab=repositories) I have published over the years.</sub>
