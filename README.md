@@ -27,8 +27,8 @@ analysis and risk assessment, through development, deployment and long-term main
     <td width="50%" valign="top">
       <a href="https://github.com/FilipRaic/pin-list"><img src="assets/projects/pinlist.png" width="100%" alt="PinList" /></a><br/>
       <a href="https://github.com/FilipRaic/pin-list"><b>PinList</b></a><br/>
-      <sub>To-do list widgets pinned to your Windows desktop. Categories, drag-and-drop, archive of completed items. No account, no cloud, your data stays on your PC.</sub><br/><br/>
-      <code>C#</code> <code>.NET</code> <code>WPF</code>
+      <sub>To-do list widgets pinned to your Windows or MacOS desktop, plus an Android app. Categories, drag-and-drop, due dates, reminders, archive.</sub><br/><br/>
+      <code>C#</code> <code>.NET</code> <code>Avalonia</code>
     </td>
   </tr>
   <tr>
