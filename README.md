@@ -11,7 +11,7 @@ analysis and risk assessment, through development, deployment and long-term main
 ## Tech I use
 
 <p align="center">
-  <img src="assets/tech.svg" width="742" alt="Java, Spring Boot, Hibernate, Angular, React, React Native, TypeScript, JavaScript, NestJS, Strapi, PostgreSQL, Kafka, RabbitMQ, AWS, Docker, Git, Linux, Python, C, C++, Kotlin, Arduino, HTML, CSS, C#, .NET" />
+  <img src="assets/tech.svg" width="742" alt="Java, Spring Boot, Hibernate, Angular, React, React Native, TypeScript, JavaScript, NestJS, Strapi, PostgreSQL, Kafka, RabbitMQ, AWS, Docker, Git, Linux, Python, C, C++, Kotlin, Arduino, HTML, CSS, C#, .NET, Avalonia" />
 </p>
 
 ## Things I've built
