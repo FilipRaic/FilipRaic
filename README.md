@@ -27,7 +27,7 @@ analysis and risk assessment, through development, deployment and long-term main
     <td width="50%" valign="top">
       <a href="https://github.com/FilipRaic/pin-list"><img src="assets/projects/pinlist.png" width="100%" alt="PinList" /></a><br/>
       <a href="https://github.com/FilipRaic/pin-list"><b>PinList</b></a><br/>
-      <sub>To-do list widgets pinned to your Windows or MacOS desktop, plus an Android app. Categories, drag-and-drop, due dates, reminders, archive.</sub><br/><br/>
+      <sub>To-do list widgets for the Windows and macOS desktop, plus an Android app. Categories, drag-and-drop, due dates, reminders, archive and optional Google Drive sync.</sub><br/><br/>
       <code>C#</code> <code>.NET</code> <code>Avalonia</code>
     </td>
   </tr>
