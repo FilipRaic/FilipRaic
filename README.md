@@ -21,7 +21,7 @@ analysis and risk assessment, through development, deployment and long-term main
     <td width="50%" valign="top">
       <a href="https://filipraic.github.io/obd2-simulator/"><img src="assets/projects/obd2.png" width="100%" alt="OBD-II simulator" /></a>
       <h3><a href="https://filipraic.github.io/obd2-simulator/">OBD-II simulator</a></h3>
-      <p>Open-source ECU simulator board that answers diagnostic tools like a real car ECU: 21 live parameters, fault codes and a MIL.</p>
+      <p>Open-source ECU simulator board that answers diagnostic tools like a real car ECU: 21 live parameters, fault codes and a MIL.<br/>&nbsp;</p>
       <p><code>ESP32-S3</code> <code>CAN</code> <code>C++</code></p>
       <a href="https://filipraic.github.io/obd2-simulator/"><img src="assets/btn-website.svg" height="28" alt="Website" /></a>
       <a href="https://github.com/FilipRaic/obd2-simulator"><img src="assets/btn-source.svg" height="28" alt="Source" /></a>
@@ -39,7 +39,7 @@ analysis and risk assessment, through development, deployment and long-term main
     <td width="50%" valign="top">
       <a href="https://www.askblackcatz.hr"><img src="assets/projects/blackcatz.png" width="100%" alt="ASK Black Catz website" /></a>
       <h3><a href="https://www.askblackcatz.hr">ASK Black Catz</a></h3>
-      <p>Website for an airsoft club with activities, membership info and a members-only admin area.</p>
+      <p>Website for an airsoft club with activities, membership info and a members-only admin area.<br/>&nbsp;</p>
       <p><code>HTML</code> <code>CSS</code></p>
       <a href="https://www.askblackcatz.hr"><img src="assets/btn-website.svg" height="28" alt="Website" /></a>
     </td>
