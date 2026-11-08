@@ -39,7 +39,7 @@ analysis and risk assessment, through development, deployment and long-term main
     <td width="50%" valign="top">
       <a href="https://www.askblackcatz.hr"><img src="assets/projects/blackcatz.png" width="100%" alt="ASK Black Catz website" /></a>
       <h3><a href="https://www.askblackcatz.hr">ASK Black Catz</a></h3>
-      <p>Website for an airsoft club with activities, membership info and a members-only admin area.<br/>&nbsp;</p>
+      <p>Website for an airsoft club with activities, membership info and a members-only admin area.</p>
       <p><code>HTML</code> <code>CSS</code></p>
       <a href="https://www.askblackcatz.hr"><img src="assets/btn-website.svg" height="28" alt="Website" /></a>
     </td>
