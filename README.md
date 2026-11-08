@@ -19,37 +19,44 @@ analysis and risk assessment, through development, deployment and long-term main
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://filipraic.github.io/obd2-simulator/"><img src="assets/projects/obd2.png" width="100%" alt="OBD-II simulator" /></a><br/>
-      <a href="https://filipraic.github.io/obd2-simulator/"><b>OBD2 simulator</b></a><br/>
-      <sub>Open-source ECU simulator board that answers diagnostic tools like a real car ECU: 21 live parameters, fault codes and a MIL.</sub><br/><br/>
-      <code>ESP32-S3</code> <code>CAN</code> <code>C++</code>
+      <a href="https://filipraic.github.io/obd2-simulator/"><img src="assets/projects/obd2.png" width="100%" alt="OBD-II simulator" /></a>
+      <h3><a href="https://filipraic.github.io/obd2-simulator/">OBD-II simulator</a></h3>
+      <p>Open-source ECU simulator board that answers diagnostic tools like a real car ECU: 21 live parameters, fault codes and a MIL.</p>
+      <p><code>ESP32-S3</code> <code>CAN</code> <code>C++</code></p>
+      <a href="https://filipraic.github.io/obd2-simulator/"><img src="assets/btn-website.svg" height="28" alt="Website" /></a>
+      <a href="https://github.com/FilipRaic/obd2-simulator"><img src="assets/btn-source.svg" height="28" alt="Source" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/FilipRaic/pin-list"><img src="assets/projects/pinlist.png" width="100%" alt="PinList" /></a><br/>
-      <a href="https://github.com/FilipRaic/pin-list"><b>PinList</b></a><br/>
-      <sub>To-do list widgets for the Windows and macOS desktop, plus an Android app. Categories, drag-and-drop, due dates, reminders, archive and optional Google Drive sync.</sub><br/><br/>
-      <code>C#</code> <code>.NET</code> <code>Avalonia</code>
+      <a href="https://filipraic.github.io/pin-list/"><img src="assets/projects/pinlist.png" width="100%" alt="PinList" /></a>
+      <h3><a href="https://filipraic.github.io/pin-list/">PinList</a></h3>
+      <p>To-do list widgets for the Windows and macOS desktop, plus an Android app. Categories, drag-and-drop, due dates, reminders, archive and optional Google Drive sync.</p>
+      <p><code>C#</code> <code>.NET</code> <code>Avalonia</code></p>
+      <a href="https://filipraic.github.io/pin-list/"><img src="assets/btn-website.svg" height="28" alt="Website" /></a>
+      <a href="https://github.com/FilipRaic/pin-list"><img src="assets/btn-source.svg" height="28" alt="Source" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.askblackcatz.hr"><img src="assets/projects/blackcatz.png" width="100%" alt="ASK Black Catz website" /></a><br/>
-      <a href="https://www.askblackcatz.hr"><b>ASK Black Catz</b></a><br/>
-      <sub>Website for an airsoft club with activities, membership info and a members-only admin area.</sub><br/><br/>
-      <code>HTML</code> <code>CSS</code> <code>live site</code>
+      <a href="https://www.askblackcatz.hr"><img src="assets/projects/blackcatz.png" width="100%" alt="ASK Black Catz website" /></a>
+      <h3><a href="https://www.askblackcatz.hr">ASK Black Catz</a></h3>
+      <p>Website for an airsoft club with activities, membership info and a members-only admin area.</p>
+      <p><code>HTML</code> <code>CSS</code></p>
+      <a href="https://www.askblackcatz.hr"><img src="assets/btn-website.svg" height="28" alt="Website" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/FilipRaic/loadout-builder"><img src="assets/projects/loadout.png" width="100%" alt="Loadout builder" /></a><br/>
-      <a href="https://github.com/FilipRaic/loadout-builder"><b>Loadout builder</b></a><br/>
-      <sub>Website for trying different airsoft gear patterns and colors on a 3-angle photo, so you can see what matches before buying.</sub><br/><br/>
-      <code>JavaScript</code> <code>Python</code> <code>WebGL2</code>
+      <a href="https://filipraic.github.io/loadout-builder/"><img src="assets/projects/loadout.png" width="100%" alt="Loadout builder" /></a>
+      <h3><a href="https://filipraic.github.io/loadout-builder/">Loadout builder</a></h3>
+      <p>Website for trying different airsoft gear patterns and colors on a 3-angle photo, so you can see what matches before buying.</p>
+      <p><code>JavaScript</code> <code>Python</code> <code>WebGL2</code></p>
+      <a href="https://filipraic.github.io/loadout-builder/"><img src="assets/btn-website.svg" height="28" alt="Website" /></a>
+      <a href="https://github.com/FilipRaic/loadout-builder"><img src="assets/btn-source.svg" height="28" alt="Source" /></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <a href="https://github.com/SnackOverflow-com"><img src="assets/projects/stepsquad.png" width="50%" alt="Step Squad app" /></a><br/>
       <a href="https://github.com/SnackOverflow-com"><b>Step Squad</b></a> · team project by SnackOverflow<br/>
-      <sub>Mobile app centered around walking with step tracking, city routes, points, leaderboards, badges and streaks.</sub><br/><br/>
+      <sub>Mobile app centered around walking with step tracking, city routes, points, leaderboards, badges and streaks. Built as a team project with SnackOverflow.</sub><br/><br/>
       <code>React Native</code> <code>NestJS</code> <code>PostgreSQL</code>
     </td>
   </tr>
